@@ -105,14 +105,4 @@ The system uses different datasets for each feature:
 
 ---
 
-## 👥 Contributors
 
-* **AB Shetty**
-* **ChatGPT 3.5 Turbo** (assisted with logic and code)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-You are free to use, modify, and share it.
