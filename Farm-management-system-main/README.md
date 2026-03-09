@@ -37,7 +37,7 @@ Follow these steps to set up the project on your computer:
 2. **Navigate into the Project Folder**
 
    ```bash
-   cd crop-management-system
+   cd Farm-management-system
    ```
 
 3. **Install Required Python Libraries**
